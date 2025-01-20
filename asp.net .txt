@@ -1,0 +1,33 @@
+C# Software Developer (ASP.NET Core & React.js)
+Company : SOFT TASK
+Employment Type: Full-Time
+Location: Basabo, Dhaka
+Workplace : Work at office (9 am - 6 pm), 6 Days Weekly
+Vacancy: 2
+E-mail : softtaskltd@gmail.com
+Job Description:
+We are looking for a talented ASP.NET Core API & React.js Developer to join our team. The successful candidate will be responsible for developing and maintaining web applications using ASP.NET Core for the back-end and React.js for the front-end.
+Responsibilities & Context:
+Develop and maintain RESTful APIs using ASP.NET Core.
+Develop and maintain data access layers using Entity Framework.
+Design and implement database structures using Microsoft SQL Server.
+Utilize Code First approach for database development with Entity Framework.
+Develop front-end components using React.js.
+Integrate user-facing elements with server-side logic.
+Ensure the performance, quality, and responsiveness of applications.
+Identify and fix bugs.
+Maintain code quality, organization, and automation.
+Understanding of version control systems(Git).
+Participate in code reviews and contribute to team knowledge sharing.
+Qualifications:
+Bachelor’s degree in Computer Science, Software Engineering, or related field, or equivalent practical experience.
+Proven experience as a full-stack developer with a strong focus on ASP.NET Core and React.js.
+Proficiency in C#, .NET Core, and RESTful API development.
+Experience with  Entity Framework and Microsoft SQL Server.
+Experience with Entity Framework and Code First approach.
+Strong knowledge of React.js, JavaScript
+Apply Link :  https://shorturl.at/wqxlt
+Salary : Negotiable  (based on experience)
+Other Benefits 
+Salary Review: Yearly
+& other as per company policy.
