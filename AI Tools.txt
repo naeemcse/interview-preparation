@@ -1,0 +1,13 @@
+Cursor
+Claude
+ChatGPT
+BlackBox AI
+Pieces
+Mintlify
+Github Copilot
+V0
+offline setup , local llm and void is the future!
+vim 
+zed 
+olama 
+perplexity 
